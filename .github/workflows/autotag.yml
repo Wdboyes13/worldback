@@ -1,0 +1,31 @@
+name: Auto Backup Tag
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main  # Adjust this if needed
+
+jobs:
+  tag_backup:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Get Current Date and Time
+        id: date
+        run: echo "TAG_NAME=$(date '+%Y-%m-%d_%H-%M-%S')" >> $GITHUB_ENV
+
+      - name: Configure Git
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Create and Push Tag
+        run: |
+          git tag ${{ env.TAG_NAME }}
+          git push origin ${{ env.TAG_NAME }}
