@@ -1,0 +1,220 @@
+%YAML 1.1
+---
+isSafe: true
+icons: {
+    }
+sets:
+    markers:
+        hide: false
+        circles: {
+            }
+        deficon: default
+        areas: {
+            }
+        label: Markers
+        markers:
+            marker_5:
+                world: world
+                markup: false
+                x: -1156.488887370168
+                icon: default
+                y: 124.0
+                z: -41.01085726339001
+                label: Voting Chamber
+            marker_6:
+                world: world
+                markup: false
+                x: -1137.0918730761277
+                icon: default
+                y: 124.0
+                z: -36.32544402392642
+                label: Arena
+            marker_7:
+                world: world
+                markup: false
+                x: -1170.0902634163651
+                icon: default
+                y: 130.0
+                z: -14.423973920380545
+                label: City Hall
+            marker_8:
+                world: world
+                markup: false
+                x: -1193.172047478481
+                icon: default
+                y: 130.0
+                z: -1.9019389647039304
+                label: Sharestone Hub
+            marker_9:
+                world: world
+                markup: false
+                x: -1146.181566507422
+                icon: default
+                y: 126.0
+                z: -13.128639750353681
+                label: Casino
+            marker_12:
+                world: world
+                markup: false
+                x: -1157.060804990511
+                icon: default
+                y: 124.0
+                z: -59.44202007105078
+                label: Post Office
+            marker_13:
+                world: world
+                markup: false
+                x: -1175.691535456061
+                icon: default
+                y: 120.5
+                z: -62.94937517451513
+                label: Goonotels
+            marker_10:
+                world: world
+                markup: false
+                x: -1127.6854813100879
+                icon: default
+                y: 124.0
+                z: -17.824187228357204
+                label: Lowes
+            marker_11:
+                world: world
+                markup: false
+                x: -1114.2659083775968
+                icon: default
+                y: 124.0
+                z: -18.102457711006743
+                label: 7/11
+            marker_1:
+                world: world
+                markup: false
+                x: -1195.1744142355901
+                icon: default
+                y: 121.0
+                z: -128.54548055820186
+                label: William&#39;s House
+            marker_2:
+                world: world
+                markup: false
+                x: -1204.0490708477525
+                icon: default
+                y: 125.0
+                z: -98.2685796459559
+                label: Andy&#39;s House
+            marker_3:
+                world: world
+                markup: false
+                x: -1212.8478016111837
+                icon: default
+                y: 119.0
+                z: -54.6919185597848
+                label: Farms
+            marker_4:
+                world: world
+                markup: false
+                x: -1179.408438162595
+                icon: default
+                y: 123.0
+                z: -50.662584914893806
+                label: Goondonalds
+            marker_18:
+                world: world
+                markup: false
+                x: -1161.0966550228118
+                icon: default
+                y: 120.0
+                z: -49.69713030035765
+                label: Beacon 1
+            marker_19:
+                world: world
+                markup: false
+                x: -1154.1762607361884
+                icon: default
+                y: 125.0
+                z: 1.81751260871168
+                label: Portal
+            marker_16:
+                world: world
+                markup: false
+                x: -1187.4318752493527
+                icon: default
+                y: 121.0
+                z: -79.52785968570115
+                label: Enchantment room
+            marker_17:
+                world: world
+                markup: false
+                x: -1173.2547053941034
+                icon: default
+                y: 123.0
+                z: -30.19824335689792
+                label: Tom&#39;s House
+            marker_14:
+                world: world
+                markup: false
+                x: -1164.0752992714113
+                icon: default
+                y: 120.0
+                z: -83.13963759557129
+                label: National Park
+            marker_15:
+                world: world
+                markup: false
+                x: -1121.7545182705253
+                icon: default
+                y: 133.0
+                z: -74.77197285512516
+                label: Prison
+            marker_23:
+                world: world
+                markup: false
+                x: -1261.4813035321647
+                icon: default
+                y: 127.0
+                z: -110.59024473928324
+                label: Library
+            marker_24:
+                world: world
+                markup: false
+                x: -1128.3758773382121
+                icon: default
+                y: 134.0
+                z: -54.93177500917321
+                label: Statue
+            marker_21:
+                world: world
+                markup: false
+                x: -1161.29785091488
+                icon: default
+                y: 123.0
+                z: 6.1507193220428755
+                label: Isolation Chamber
+            marker_22:
+                world: world
+                markup: false
+                x: -1236.2454188028435
+                icon: default
+                y: 124.0
+                z: -142.14192178701938
+                label: Tristan&#39;s House
+            marker_20:
+                world: world
+                markup: false
+                x: -1141.7540214678725
+                icon: default
+                y: 130.0
+                z: 18.253535570340905
+                label: Church
+            marker_25:
+                world: world
+                markup: false
+                x: -1147.7297336196991
+                icon: default
+                y: 124.0
+                z: -88.87201053129974
+                label: Tom&#39;s House
+        lines: {
+            }
+        layerprio: 0
+playersets: {
+    }
