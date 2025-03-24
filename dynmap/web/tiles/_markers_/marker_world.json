@@ -1,0 +1,36 @@
+{"sets": {"markers": {"hide": false,"circles": {}
+,"areas": {"_worldborder_world": {"fillcolor": "#000000","ytop": 64.00,"color": "#FF0000","markup": false,"x": [-41447.00,-41447.00,39038.00,39038.00]
+,"weight": 3,"z": [-40369.00,40116.00,40116.00,-40369.00]
+,"ybottom": 64.00,"label": "Border","opacity": 0.80,"fillopacity": 0.00}
+}
+,"label": "Markers","markers": {"marker_5": {"markup": false,"x": -1156.49,"icon": "default","y": 124.00,"dim": "16x16","z": -41.01,"label": "Voting Chamber"}
+,"marker_6": {"markup": false,"x": -1137.09,"icon": "default","y": 124.00,"dim": "16x16","z": -36.33,"label": "Arena"}
+,"marker_7": {"markup": false,"x": -1170.09,"icon": "default","y": 130.00,"dim": "16x16","z": -14.42,"label": "City Hall"}
+,"marker_8": {"markup": false,"x": -1193.17,"icon": "default","y": 130.00,"dim": "16x16","z": -1.90,"label": "Sharestone Hub"}
+,"marker_9": {"markup": false,"x": -1146.18,"icon": "default","y": 126.00,"dim": "16x16","z": -13.13,"label": "Casino"}
+,"marker_12": {"markup": false,"x": -1157.06,"icon": "default","y": 124.00,"dim": "16x16","z": -59.44,"label": "Post Office"}
+,"marker_13": {"markup": false,"x": -1175.69,"icon": "default","y": 120.50,"dim": "16x16","z": -62.95,"label": "Goonotels"}
+,"marker_10": {"markup": false,"x": -1127.69,"icon": "default","y": 124.00,"dim": "16x16","z": -17.82,"label": "Lowes"}
+,"marker_11": {"markup": false,"x": -1114.27,"icon": "default","y": 124.00,"dim": "16x16","z": -18.10,"label": "7\/11"}
+,"marker_1": {"markup": false,"x": -1195.17,"icon": "default","y": 121.00,"dim": "16x16","z": -128.55,"label": "William&#39;s House"}
+,"marker_2": {"markup": false,"x": -1204.05,"icon": "default","y": 125.00,"dim": "16x16","z": -98.27,"label": "Andy&#39;s House"}
+,"marker_3": {"markup": false,"x": -1212.85,"icon": "default","y": 119.00,"dim": "16x16","z": -54.69,"label": "Farms"}
+,"marker_4": {"markup": false,"x": -1179.41,"icon": "default","y": 123.00,"dim": "16x16","z": -50.66,"label": "Goondonalds"}
+,"marker_18": {"markup": false,"x": -1161.10,"icon": "default","y": 120.00,"dim": "16x16","z": -49.70,"label": "Beacon 1"}
+,"marker_19": {"markup": false,"x": -1154.18,"icon": "default","y": 125.00,"dim": "16x16","z": 1.82,"label": "Portal"}
+,"marker_16": {"markup": false,"x": -1187.43,"icon": "default","y": 121.00,"dim": "16x16","z": -79.53,"label": "Enchantment room"}
+,"marker_17": {"markup": false,"x": -1173.25,"icon": "default","y": 123.00,"dim": "16x16","z": -30.20,"label": "Tom&#39;s House"}
+,"marker_14": {"markup": false,"x": -1164.08,"icon": "default","y": 120.00,"dim": "16x16","z": -83.14,"label": "National Park"}
+,"marker_15": {"markup": false,"x": -1121.75,"icon": "default","y": 133.00,"dim": "16x16","z": -74.77,"label": "Prison"}
+,"_spawn_world": {"markup": false,"x": -1193.00,"icon": "world","y": 126.00,"dim": "16x16","z": -1.00,"label": "Spawn"}
+,"marker_23": {"markup": false,"x": -1261.48,"icon": "default","y": 127.00,"dim": "16x16","z": -110.59,"label": "Library"}
+,"marker_24": {"markup": false,"x": -1128.38,"icon": "default","y": 134.00,"dim": "16x16","z": -54.93,"label": "Statue"}
+,"marker_21": {"markup": false,"x": -1161.30,"icon": "default","y": 123.00,"dim": "16x16","z": 6.15,"label": "Isolation Chamber"}
+,"marker_22": {"markup": false,"x": -1236.25,"icon": "default","y": 124.00,"dim": "16x16","z": -142.14,"label": "Tristan&#39;s House"}
+,"marker_20": {"markup": false,"x": -1141.75,"icon": "default","y": 130.00,"dim": "16x16","z": 18.25,"label": "Church"}
+,"marker_25": {"markup": false,"x": -1147.73,"icon": "default","y": 124.00,"dim": "16x16","z": -88.87,"label": "Tom&#39;s House"}
+}
+,"lines": {}
+,"layerprio": 0}
+}
+,"timestamp": 1742788993009}

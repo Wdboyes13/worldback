@@ -1,0 +1,47 @@
+%YAML 1.1
+---
+worlds:
+-   sealevel: 63
+    nether: false
+    miny: -64
+    name: world
+    the_end: false
+    title: world
+    height: 384
+-   sealevel: 63
+    nether: false
+    miny: 0
+    name: witherstormmod_bowels
+    the_end: false
+    title: witherstormmod_bowels
+    height: 256
+-   sealevel: 63
+    nether: false
+    miny: 0
+    name: DIM1
+    the_end: true
+    title: DIM1
+    height: 256
+-   sealevel: 63
+    nether: true
+    miny: 0
+    name: DIM-1
+    the_end: false
+    title: DIM-1
+    height: 256
+-   sealevel: 63
+    nether: false
+    miny: 0
+    name: cbb_kildren
+    the_end: false
+    title: cbb_kildren
+    height: 256
+-   sealevel: 63
+    nether: false
+    miny: -64
+    name: cbb_forgotten
+    the_end: false
+    title: cbb_forgotten
+    height: 384
+useSaveFolderAsName: true
+maxWorldHeight: 320
