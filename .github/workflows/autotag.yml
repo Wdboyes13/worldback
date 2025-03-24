@@ -1,10 +1,9 @@
 name: Auto Backup Tag
 
 on:
-  workflow_dispatch:
   push:
     branches:
-      - main  # Adjust this if needed
+      - main
 
 jobs:
   tag_backup:
@@ -14,7 +13,7 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v4
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GH_PAT }}
 
       - name: Get Current Date and Time
         id: date
@@ -22,10 +21,10 @@ jobs:
 
       - name: Configure Git
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "YourGitHubUsername"
+          git config --global user.email "your-email@example.com"
 
       - name: Create and Push Tag
         run: |
           git tag ${{ env.TAG_NAME }}
-          git push origin ${{ env.TAG_NAME }}
+          git push https://x-access-token:${{ secrets.GH_PAT }}@github.com/Wdboyes13/worldback.git ${{ env.TAG_NAME }}
