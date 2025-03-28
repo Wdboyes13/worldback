@@ -7,6 +7,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:old_growth_pine_taiga": "2025-03-26 20:29:58 -0700",
       "minecraft:taiga": "2025-03-10 17:20:29 -0700",
       "minecraft:birch_forest": "2025-03-11 16:50:22 -0700",
       "minecraft:beach": "2025-03-13 17:14:49 -0700",
@@ -5262,6 +5263,36 @@
   "witherstormmod:main/strong_grow_weak": {
     "criteria": {
       "play_dead": "2025-03-24 13:38:02 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-03-26 20:16:31 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab": {
+    "criteria": {
+      "has_polished_andesite": "2025-03-26 20:16:31 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
+    "criteria": {
+      "has_polished_andesite": "2025-03-26 20:16:31 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-03-26 20:16:31 -0700"
+    },
+    "done": true
+  },
+  "witherstormmod:recipes/misc/formidibomb": {
+    "criteria": {
+      "has_super_tnt": "2025-03-26 20:47:10 -0700"
     },
     "done": true
   },

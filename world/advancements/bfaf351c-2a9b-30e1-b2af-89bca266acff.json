@@ -9255,5 +9255,683 @@
     },
     "done": true
   },
+  "create:crushing_wheel": {
+    "criteria": {
+      "0": "2025-03-26 14:39:46 -0700"
+    },
+    "done": true
+  },
+  "create:drain": {
+    "criteria": {
+      "0": "2025-03-26 14:45:20 -0700"
+    },
+    "done": true
+  },
+  "create:glass_pipe": {
+    "criteria": {
+      "0": "2025-03-26 15:29:47 -0700"
+    },
+    "done": true
+  },
+  "create:spout": {
+    "criteria": {
+      "0": "2025-03-26 15:39:39 -0700"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/dough": {
+    "criteria": {
+      "has_item": "2025-03-26 16:41:11 -0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_limestone_slab_recycling": {
+    "criteria": {
+      "has_polished_cut_limestone_slab": "2025-03-26 17:38:11 -0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_limestone_slab_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-03-26 17:39:03 -0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_limestone_brick_stairs_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-03-26 17:39:03 -0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_limestone_brick_wall_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-03-26 17:39:03 -0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_limestone_stairs_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-03-26 17:39:03 -0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_limestone_stairs_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-03-26 17:39:03 -0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_limestone_brick_slab_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-03-26 17:39:03 -0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_limestone_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-03-26 17:39:03 -0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_limestone_wall_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-03-26 17:39:03 -0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_limestone_stairs": {
+    "criteria": {
+      "has_polished_cut_limestone": "2025-03-26 17:39:03 -0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_limestone_bricks_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-03-26 17:39:03 -0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_limestone_wall_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-03-26 17:39:03 -0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_limestone_bricks_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-03-26 17:39:03 -0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/limestone_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-03-26 17:39:03 -0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/limestone_pillar_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-03-26 17:39:03 -0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_limestone_brick_wall_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-03-26 17:39:03 -0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_limestone_wall": {
+    "criteria": {
+      "has_polished_cut_limestone": "2025-03-26 17:39:03 -0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_limestone_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-03-26 17:39:03 -0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_limestone_slab_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-03-26 17:39:03 -0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_limestone_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-03-26 17:39:03 -0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_limestone_slab": {
+    "criteria": {
+      "has_polished_cut_limestone": "2025-03-26 17:39:03 -0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_limestone_brick_stairs_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-03-26 17:39:03 -0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_limestone_brick_slab_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-03-26 17:39:03 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-03-26 18:47:12 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-03-26 18:47:12 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_exposed_cut_copper_slab_from_waxed_exposed_cut_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_exposed_cut_copper": "2025-03-26 19:42:00 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_exposed_cut_copper_stairs": {
+    "criteria": {
+      "has_waxed_exposed_cut_copper": "2025-03-26 19:42:00 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_exposed_cut_copper_stairs_from_waxed_exposed_cut_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_exposed_cut_copper": "2025-03-26 19:42:00 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_exposed_cut_copper_slab": {
+    "criteria": {
+      "has_waxed_exposed_cut_copper": "2025-03-26 19:42:00 -0700"
+    },
+    "done": true
+  },
+  "witherstormmod:main/silver_lining": {
+    "criteria": {
+      "gained_tool": "2025-03-26 19:56:27 -0700"
+    },
+    "done": true
+  },
+  "witherstormmod:main/insane_dedication": {
+    "criteria": {
+      "inventory_changed": "2025-03-26 19:56:27 -0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/tiled_glass_pane_from_glass_panes_colorless_stonecutting": {
+    "criteria": {
+      "has_glass_panes_colorless": "2025-03-26 21:33:03 -0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/vertical_framed_glass_pane_from_glass_panes_colorless_stonecutting": {
+    "criteria": {
+      "has_glass_panes_colorless": "2025-03-26 21:33:03 -0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/horizontal_framed_glass_pane_from_glass_panes_colorless_stonecutting": {
+    "criteria": {
+      "has_glass_panes_colorless": "2025-03-26 21:33:03 -0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/framed_glass_pane_from_glass_panes_colorless_stonecutting": {
+    "criteria": {
+      "has_glass_panes_colorless": "2025-03-26 21:33:03 -0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_brick_wall": {
+    "criteria": {
+      "has_cut_tuff_bricks": "2025-03-26 21:43:05 -0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_brick_stairs": {
+    "criteria": {
+      "has_cut_tuff_bricks": "2025-03-26 21:43:05 -0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_brick_slab": {
+    "criteria": {
+      "has_cut_tuff_bricks": "2025-03-26 21:43:05 -0700"
+    },
+    "done": true
+  },
+  "witherstormmod:recipes/misc/formidibomb": {
+    "criteria": {
+      "has_super_tnt": "2025-03-26 21:43:21 -0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/copper_shingle_slab": {
+    "criteria": {
+      "has_copper_shingles": "2025-03-26 21:43:36 -0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/copper_shingle_stairs": {
+    "criteria": {
+      "has_copper_shingles": "2025-03-26 21:43:36 -0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/copper/waxed_copper_shingles_from_honeycomb": {
+    "criteria": {
+      "has_unwaxed": "2025-03-26 21:43:36 -0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/copper_shingle_slab_from_copper_shingles_stonecutting": {
+    "criteria": {
+      "has_copper_shingles": "2025-03-26 21:43:36 -0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/copper_shingle_stairs_from_copper_shingles_stonecutting": {
+    "criteria": {
+      "has_copper_shingles": "2025-03-26 21:43:36 -0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_diorite_slab_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-03-26 21:43:49 -0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_diorite_brick_slab_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-03-26 21:43:49 -0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_diorite_wall": {
+    "criteria": {
+      "has_polished_cut_diorite": "2025-03-26 21:43:49 -0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_diorite_brick_slab_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-03-26 21:43:49 -0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/diorite_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-03-26 21:43:49 -0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_diorite_brick_wall_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-03-26 21:43:49 -0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_diorite_brick_stairs_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-03-26 21:43:49 -0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_diorite_stairs": {
+    "criteria": {
+      "has_polished_cut_diorite": "2025-03-26 21:43:49 -0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_diorite_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-03-26 21:43:49 -0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_diorite_stairs_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-03-26 21:43:49 -0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_diorite_bricks_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-03-26 21:43:49 -0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_diorite_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-03-26 21:43:49 -0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_diorite_wall_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-03-26 21:43:49 -0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_diorite_brick_wall_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-03-26 21:43:49 -0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_diorite_bricks_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-03-26 21:43:49 -0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/diorite_pillar_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-03-26 21:43:49 -0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_diorite_wall_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-03-26 21:43:49 -0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_diorite_brick_stairs_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-03-26 21:43:49 -0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_diorite_stairs_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-03-26 21:43:49 -0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_diorite_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-03-26 21:43:49 -0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_diorite_slab_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-03-26 21:43:49 -0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_diorite_slab": {
+    "criteria": {
+      "has_polished_cut_diorite": "2025-03-26 21:43:49 -0700"
+    },
+    "done": true
+  },
+  "minecraft:nether/create_beacon": {
+    "criteria": {
+      "beacon": "2025-03-26 21:48:48 -0700"
+    },
+    "done": true
+  },
+  "create:recipes/combat/crafting/appliances/netherite_diving_helmet_from_netherite": {
+    "criteria": {
+      "has_item": "2025-03-27 13:05:12 -0700"
+    },
+    "done": true
+  },
+  "minecraft:nether/netherite_armor": {
+    "criteria": {
+      "netherite_armor": "2025-03-27 13:05:16 -0700"
+    },
+    "done": true
+  },
+  "create:recipes/combat/crafting/appliances/netherite_diving_boots_from_netherite": {
+    "criteria": {
+      "has_item": "2025-03-27 13:05:16 -0700"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/deepslate_stepping_stones": {
+    "criteria": {
+      "has_deepslate": "2025-03-27 13:13:47 -0700"
+    },
+    "done": true
+  },
+  "cbb:final_weapon": {
+    "criteria": {
+      "final_weapon": "2025-03-27 13:19:23 -0700"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/sail_frame_from_conversion": {
+    "criteria": {
+      "has_item": "2025-03-27 14:07:53 -0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/spruce_window": {
+    "criteria": {
+      "has_ingredient": "2025-03-27 14:08:08 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-03-27 14:08:59 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
+    "criteria": {
+      "has_log": "2025-03-27 14:08:59 -0700"
+    },
+    "done": true
+  },
+  "create:windmill": {
+    "criteria": {
+      "0": "2025-03-27 14:10:55 -0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_andesite_brick_stairs": {
+    "criteria": {
+      "has_small_andesite_bricks": "2025-03-27 14:17:21 -0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_andesite_brick_wall": {
+    "criteria": {
+      "has_small_andesite_bricks": "2025-03-27 14:17:21 -0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_andesite_brick_slab": {
+    "criteria": {
+      "has_small_andesite_bricks": "2025-03-27 14:17:21 -0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_deepslate_brick_slab": {
+    "criteria": {
+      "has_small_deepslate_bricks": "2025-03-27 14:17:26 -0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_deepslate_brick_stairs": {
+    "criteria": {
+      "has_small_deepslate_bricks": "2025-03-27 14:17:26 -0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_deepslate_brick_wall": {
+    "criteria": {
+      "has_small_deepslate_bricks": "2025-03-27 14:17:26 -0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_andesite_brick_stairs": {
+    "criteria": {
+      "has_cut_andesite_bricks": "2025-03-27 14:17:41 -0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_andesite_brick_slab": {
+    "criteria": {
+      "has_cut_andesite_bricks": "2025-03-27 14:17:41 -0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_andesite_brick_wall": {
+    "criteria": {
+      "has_cut_andesite_bricks": "2025-03-27 14:17:41 -0700"
+    },
+    "done": true
+  },
+  "simplescythes:first_scythe": {
+    "criteria": {
+      "first_scythe_0": "2025-03-27 15:41:12 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_peony": {
+    "criteria": {
+      "has_peony": "2025-03-27 15:50:33 -0700"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/pink_dye_from_peony": {
+    "criteria": {
+      "has_peony": "2025-03-27 15:50:33 -0700"
+    },
+    "done": true
+  },
+  "sliceanddice:recipes/misc/slicer": {
+    "criteria": {
+      "has_mixer": "2025-03-27 16:13:26 -0700"
+    },
+    "done": true
+  },
+  "create:burner": {
+    "criteria": {
+      "0": "2025-03-27 16:13:43 -0700"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/mushroom_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-27 16:57:20 -0700"
+    },
+    "done": true
+  },
+  "sliceanddice:recipes/misc/sprinkler": {
+    "criteria": {
+      "has_pipe": "2025-03-27 17:03:02 -0700"
+    },
+    "done": true
+  },
+  "cbb:unlimited_possibilities": {
+    "criteria": {
+      "unlimited_possibilities": "2025-03-27 17:46:30 -0700"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_hedge": {
+    "criteria": {
+      "has_spruce_leaves": "2025-03-27 18:02:42 -0700"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/tools/lead_from_straw": {
+    "criteria": {
+      "has_straw": "2025-03-27 18:26:53 -0700"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/rope": {
+    "criteria": {
+      "has_straw": "2025-03-27 18:26:53 -0700"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/organic_compost_from_tree_bark": {
+    "criteria": {
+      "has_straw": "2025-03-27 18:26:53 -0700"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/straw_bale": {
+    "criteria": {
+      "has_straw": "2025-03-27 18:26:53 -0700"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/canvas": {
+    "criteria": {
+      "has_straw": "2025-03-27 18:26:53 -0700"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/packed_mud_from_straw": {
+    "criteria": {
+      "has_straw": "2025-03-27 18:26:53 -0700"
+    },
+    "done": true
+  },
+  "farmersdelight:main/harvest_straw": {
+    "criteria": {
+      "harvest_straw": "2025-03-27 18:26:53 -0700"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/organic_compost_from_rotten_flesh": {
+    "criteria": {
+      "has_straw": "2025-03-27 18:26:53 -0700"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/melon_slice_from_melon": {
+    "criteria": {
+      "has_melon": "2025-03-27 20:28:27 -0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/oak_window": {
+    "criteria": {
+      "has_ingredient": "2025-03-27 20:40:47 -0700"
+    },
+    "done": true
+  },
+  "create:saw_processing": {
+    "criteria": {
+      "0": "2025-03-27 20:49:40 -0700"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/paper_from_tree_bark": {
+    "criteria": {
+      "has_tree_bark": "2025-03-27 20:49:46 -0700"
+    },
+    "done": true
+  },
+  "create:hose_pulley": {
+    "criteria": {
+      "0": "2025-03-27 21:11:52 -0700"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
